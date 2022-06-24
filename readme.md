@@ -12,3 +12,9 @@
 ### Efecto Wave SVG[Smoothie](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
 
 ### Iconos PNG [Flaticon](https://www.flaticon.com/)
+
+### SVG [SVGrepo](https://www.svgrepo.com/)
+
+### Glass Effect [GlassMorphism](https://hype4.academy/tools/glassmorphism-generator)
+
+
