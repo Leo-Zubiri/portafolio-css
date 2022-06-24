@@ -51,6 +51,8 @@
 
 ### Gradientes-Paletas [Good for Gradients](https://mycolor.space/)
 
+### Sombras [Neumorphism](https://neumorphism.io/)
+
 ### WEB Templates [Graph Berry](https://www.graphberry.com/)
 
 ---
