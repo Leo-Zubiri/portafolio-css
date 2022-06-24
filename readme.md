@@ -78,6 +78,12 @@
 
 ### Animate CSS  [here](https://animate.style/)
 
+### Animista [here](https://animista.net/)
+
+### Animaciones [WebCode](https://webcode.tools/generators/css/keyframe-animation)
+
+### Guruz Animations [AppGuruz](https://www.theappguruz.com/tag-tools/web/CSSAnimations/)
+
 ---
 
 ## TESTING SITES Y OPTIMIZACION
