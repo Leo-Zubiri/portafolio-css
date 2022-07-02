@@ -37,6 +37,8 @@
 
 ## IDEAS Y GENERADORES
 
+### Patrones de diseño [here>>](https://ui-patterns.com/)
+
 ### Glass Effect [GlassMorphism](https://hype4.academy/tools/glassmorphism-generator)
 
 ### Daily UI [DailyUI.co](https://www.dailyui.co/)
